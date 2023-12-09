@@ -59,12 +59,21 @@ JavaScript and CSS Files:
 
 Each HTML file includes associated JavaScript (quiz.js, another_quiz.js, database.js, excel.js, python.js) and CSS (quiz.css, another_quiz.css, database.css, excel.css, python.css) files for quiz functionality and styling.
 Usage
+
 Open the index.html file in a web browser.
+
 Navigate through the quiz options by clicking the "Start Quiz" buttons.
+
 Each quiz topic is linked to a separate HTML file containing specific quiz questions.
+
 Enjoy testing your knowledge in various fields.
+
 Important Notes
+
 Ensure a stable internet connection for proper font loading.
+
 Make sure to have JavaScript enabled for a smooth quiz experience.
+
 Compatibility
+
 The application is designed to work on modern web browsers. Ensure your browser is up to date for the best experience.
